@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 49b6139c313561f2fec465481a531816908101c1
 function updateObjectWithKeyAndValue(obj, key, value) {
   return Object.assign({}, obj, { [key]: value })
 }
